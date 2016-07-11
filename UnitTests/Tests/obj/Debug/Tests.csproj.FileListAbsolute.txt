@@ -1,0 +1,9 @@
+E:\Programs\Theoretical Exercises\UnitTests\Tests\bin\Debug\Tests.dll
+E:\Programs\Theoretical Exercises\UnitTests\Tests\bin\Debug\Tests.pdb
+E:\Programs\Theoretical Exercises\UnitTests\Tests\bin\Debug\nunit.framework.dll
+E:\Programs\Theoretical Exercises\UnitTests\Tests\bin\Debug\UnitTests.exe
+E:\Programs\Theoretical Exercises\UnitTests\Tests\bin\Debug\UnitTests.pdb
+E:\Programs\Theoretical Exercises\UnitTests\Tests\bin\Debug\nunit.framework.xml
+E:\Programs\Theoretical Exercises\UnitTests\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+E:\Programs\Theoretical Exercises\UnitTests\Tests\obj\Debug\Tests.dll
+E:\Programs\Theoretical Exercises\UnitTests\Tests\obj\Debug\Tests.pdb
